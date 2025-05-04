@@ -3,7 +3,7 @@ Cache simulator with cache L1, set-associative and victim cache associative
 
 ## Table of Contents
   1. [General information](#general-information)
-  2. [Installation](#installation,-compilation-and-execution)
+  2. [Installation](#installation,-compilation-and-execute)
   3. [Use in any project](#use-in-any-project)
 
 ### General information
@@ -27,7 +27,7 @@ Specification of the makefile:
 Objetive:
   - This cache simulator calculate with trace_file generated the miss rate, hit rate, number of access to cache and number of miss.
 
-### Installation, compilation and execution:
+### Installation, compilation and execute:
   - For clone: ``` git clone https://github.com/eloyUA/Cache-Simulator ```
   - For compile any program in test: ``` make test_program_i ```
   - For compile simulator: ``` make ``` or ``` make simulator ```
