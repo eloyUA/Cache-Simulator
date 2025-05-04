@@ -2,9 +2,9 @@
 Cache simulator with cache L1, set-associative and victim cache associative
 
 ## Table of Contents
-  [1. General information](#general-information)
-  [2. Installation](#installation,-compilation-and-execution)
-  [3. Use in any project](#use-in-any-project)
+  1. [General information](#general-information)
+  2. [Installation](#installation,-compilation-and-execution)
+  3. [Use in any project](#use-in-any-project)
 
 ### General information
 Specification of the simulator (simulator.c):
